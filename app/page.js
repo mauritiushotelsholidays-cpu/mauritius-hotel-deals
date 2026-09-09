@@ -1,3 +1,4 @@
+"use client";
 const hotels = [
   // 5 STAR HOTELS
   {
